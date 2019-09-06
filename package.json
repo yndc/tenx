@@ -1,0 +1,11 @@
+{
+  "name": "tenx",
+  "version": "0.0.1",
+  "description": "Productivity focused Node.js framework, based on fastify",
+  "main": "dist/index.js",
+  "author": "Jonathan Steven <yondercode@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "fastify": "^2.8.0"
+  }
+}
